@@ -1,0 +1,25 @@
+body {
+    font-family: "Helvetica Neue";
+    width: 80%;
+}
+input, select {
+    font-size: 1em;
+    padding: 0.2em;
+    margin: 0.2em 0.5em 0.2em 0;
+    display: inline-block;
+}
+label {
+    display: block;
+    padding-top: 0.2em;
+}
+
+form {
+    display: flex;
+    flex-wrap: wrap;
+}
+div {
+    align-content: flex-start;
+    background-color: #efefef;
+    margin: 0.2em;
+    padding: 0.2em;
+}

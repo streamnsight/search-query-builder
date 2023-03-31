@@ -1,4 +1,4 @@
 flask==1.1.1
 gevent==1.4.0
-redis==4.5.3
+redis==4.5.4
 flask_cors==3.0.9
